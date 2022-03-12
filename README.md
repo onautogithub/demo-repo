@@ -1,2 +1,2 @@
 # Demo
-I am learning Git and GitHub. Please ignore this repository
+I am learning Git and GitHub. Please ignore this repository!
